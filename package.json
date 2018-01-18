@@ -1,0 +1,19 @@
+{
+  "name": "15.4",
+  "version": "1.0.0",
+  "description": "15.4",
+  "main": "script.js",
+  "scripts": {
+    "test": "test",
+    "start": "babel script.js --watch --out-file script-compiled.js"
+  },
+  "keywords": [
+    "15.4"
+  ],
+  "author": "Tomasz Pajor",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
